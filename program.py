@@ -71,6 +71,6 @@ def main():
     head(-120, 100, 100)
     heart(250, -80, 1)
     go_to(100, -300)
-    t.write("I LOVE YOU ", move=True, align="center", font=(" Verdana ", 20, "bold"))
+    t.write("I Love You Annisa", move=True, align="center", font=(" Verdana ", 20, "bold"))
     t.done()
 main()
